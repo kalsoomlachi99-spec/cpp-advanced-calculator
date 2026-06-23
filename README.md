@@ -1,4 +1,4 @@
-# 🧮 C++ Simple Calculator
+# 🧮 C++ Advanced Calculator
 
 ## 📌 Overview
 This is a simple console-based calculator built in C++. It performs basic and advanced mathematical operations using a menu-driven interface. The project is designed to improve understanding of loops, conditional statements, switch cases, and mathematical functions in C++.
